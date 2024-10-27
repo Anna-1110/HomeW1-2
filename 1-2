@@ -1,3 +1,5 @@
+#Здравствуйте, не могу найти ошибку, пожалуйста, помогите.
+
 class Mentor:
     def __init__(self, name, surname, courses_attached):
         self.name = name
